@@ -1,7 +1,12 @@
 <h1>Hello there! 😈</h1>
 
+
+
+
 <!--
 **queondatodotranqui/queondatodotranqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=queondatodotranqui)](https://github.com/queondatodotranqui/github-readme-stats)
 
 Here are some ideas to get you started:
 
