@@ -1,6 +1,6 @@
-<h1>Hello there! 🤪</h1>
+<h1>Hello there! 🧐</h1>
 
-
+<h4>I'm a Software Developer from Argentina. Currently learning to use animation frameworks in React.</h4>
 
 
 <!--
