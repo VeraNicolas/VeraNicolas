@@ -1,6 +1,6 @@
 <h1>Hello there! 🧐</h1>
 
-<p>I'm Nicolas Vera, a Software Developer from Argentina. I'm currently learning to use animation frameworks in React.</p>
+<p>I'm Nicolas Vera, a Software Developer from Argentina. I'm currently learning React Native.</p>
 
 
 <!--
