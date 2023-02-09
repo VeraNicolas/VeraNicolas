@@ -2,7 +2,7 @@
 
 <h2>a Software Developer from Argentina.</h2>
 
-- 🌊 I’m currently working on WaterLogs, a water intake tracking app.
+- 🏋️‍♀️ I’m currently working on ExerciseLogs, a workout journal app.
 - 🎬 I’m currently learning React Native Animations.
 - 👀 I play a lot of LoL so my repos may seem a bit monothematic 😅.
 
