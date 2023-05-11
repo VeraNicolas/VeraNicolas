@@ -2,10 +2,12 @@
 
 <h2>a Software Developer from Argentina.</h2>
 
-- 🏋️‍♀️ I’m currently working on ExerciseLogs, a workout journal app.
-- 🎬 I’m currently learning React Native Animations.
-- 👀 I play a lot of LoL so my repos may seem a bit monothematic 😅.
+- 🏋️‍♀️ I’m currently working on ChipaCafeMDP, a coffee and snacks blog for me and my friends.
+- 🎬 I’m currently learning to use react-spring and React Native Animations.
+- 🥳 I really like to collaborate and build beautiful UIs so let's have a chat!
 
+<p>I've been working as a software developer for about two years now and along the way I found out two things, I really love programming and I truly enjoy working in the frontend.
+  <br><br> One thing I'd like to achieve as the time goes by, is to become really good at CSS and JavaScript animations. The things you can create with the bare basics are incredible.</p>
 
 <!--
 **queondatodotranqui/queondatodotranqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
