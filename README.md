@@ -2,7 +2,9 @@
 
 <h1>🐤 Hello there! I'm Nicolas Vera 🐤</h1>
 
-<h2>a Software Developer from Argentina. Mate Enjoyer 🧉. Professional Nap Taker 😴</h2>
+<h2>a Software Developer from Argentina. </h2>
+<h3>Professional Nap Taker 😴<br>Mate Enjoyer 🧉</h3>
+<h3> Nowadays... </h3>
 
 - 🏋️‍♀️ I’m currently working on ChipaCafeMDP, a coffee and snacks blog for me and my friends.
 - 🎬 I’m currently learning to use react-spring and React Native Animations.
