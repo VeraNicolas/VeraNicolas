@@ -6,7 +6,7 @@
 <h3>Professional Nap Taker 😴<br>Mate Enjoyer 🧉</h3>
 <h3> Nowadays... </h3>
 
-- 🏋️‍♀️ I’m currently working on ChipaCafeMDP, a coffee and snacks blog for me and my friends.
+- 🏋️‍♀️ I’m currently working on CafeChipa MDP, a coffee and snacks blog for me and my friends.
 - 🎬 I’m currently learning to use react-spring and React Native Animations.
 - 🥳 I really like to collaborate and build beautiful UIs so let's have a chat!
 
