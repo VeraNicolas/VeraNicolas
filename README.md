@@ -10,7 +10,7 @@
 - 🎬 I’m currently learning to use react-spring and React Native Animations.
 - 🥳 I really like to collaborate and build beautiful UIs so let's have a chat!
 
-<p>I've been working as a software developer for about two years now and along the way I found out two things, I really love programming and I truly enjoy working in the frontend.
+<p>I've been working as a software developer for about three years now and along the way I found out two things, I really love programming and I truly enjoy working in the frontend.
   <br><br> One thing I'd like to achieve as the time goes by, is to become really good at CSS and JavaScript animations. The things you can create with the bare basics are incredible.</p>
 
 <!--
