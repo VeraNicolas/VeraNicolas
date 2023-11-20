@@ -1,5 +1,3 @@
-<img src="./splash.jpeg" height="160px" width="160px"/>
-
 <h1>🐤 Hello there! I'm Nicolas Vera 🐤</h1>
 
 <h2>a Software Developer from Argentina. </h2>
