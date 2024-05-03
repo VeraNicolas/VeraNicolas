@@ -4,8 +4,8 @@
 <h3 align="center">Professional Nap Taker 😴 Mate Enjoyer 🧉 Frontend wizard in the making 🧙</h3>
 <h3> Nowadays... </h3>
 
-- 🏋️‍♀️ I’m currently working on CafeChipa MDP, a coffee and snacks blog for me and my friends.
-- 🎬 I’m currently learning to use react-spring and React Native Animations.
+- 🏋️‍♀️ I’m currently working on Inventario, a foodstock tracker for me and my wife.
+- 🎬 I’m currently learning to use Kotlin and Jetpack Compose.
 - 🥳 I really like to collaborate and build beautiful UIs so let's have a chat!
 
 <p>I've been working as a software developer for about three years now and along the way I found out two things, I really love programming and I truly enjoy working in the frontend.
