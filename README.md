@@ -1,11 +1,11 @@
 <h1 align="center">🐤 Hello there! I'm Nicolas Vera 🐤</h1>
 
 <h2 align="center">a Software Developer from Argentina. </h2>
-<h3 align="center">Professional Nap Taker 😴 Mate Enjoyer 🧉 Frontend wizard in the making 🧙</h3>
+<h3 align="center">Professional Nap Taker 😴 Mate Enjoyer 🧉</h3>
 <h3> Nowadays... </h3>
 
 - 🏋️‍♀️ I’m currently working on Inventario, a foodstock tracker for me and my wife.
-- 🎬 I’m currently learning to use Kotlin and Jetpack Compose.
+- 🎬 I’m currently learning to use Three.js and GSAP.
 - 🥳 I really like to collaborate and build beautiful UIs so let's have a chat!
 
 <p>I've been working as a software developer for more than four years now and along the way I found out two things, I really love programming and I truly enjoy working in the frontend.
