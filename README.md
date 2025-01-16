@@ -4,7 +4,7 @@
 <h3 align="center">Professional Nap Taker 😴 Mate Enjoyer 🧉</h3>
 <h3> Nowadays... </h3>
 
-- 🏋️‍♀️ I’m currently working on Inventario, a foodstock tracker for me and my wife.
+- 🐕 I’m currently working on Paseitou, a dog-walking activity tracker.
 - 🎬 I’m currently learning to use Three.js and GSAP.
 - 🥳 I really like to collaborate and build beautiful UIs so let's have a chat!
 
